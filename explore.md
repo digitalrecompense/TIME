@@ -173,7 +173,6 @@ This synthesis:
 * No known physics is contradicted.
 * The contribution is a **coherent metaphysical unification** layered atop existing formalisms.
 
- ###### Robert R. P., RAiTHE INDUSTRIES INC. 2026
-
-
 Further formalization would require **category theory**, **computational depth**, or **information-theoretic models**, not numeric intuition alone.
+
+ ###### Robert R. P., RAiTHE INDUSTRIES INC. 2026
