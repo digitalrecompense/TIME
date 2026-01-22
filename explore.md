@@ -17,11 +17,8 @@ A structured clarification of my mathematical, physical, and metaphysical claims
 * A **limit is not a value** unless the function is explicitly defined at that point.
 * Definition:
 
-  [
-  \lim_{x \to a} f(x) = L
-  ]
+  <img width="675" height="156" alt="image" src="https://github.com/user-attachments/assets/eda6655a-2ebc-4cf3-8d0f-408cb77eb5ee" />
 
-  means values *approach* (L), not that (f(a)=L).
 
 This distinction is not philosophical; it is **axiomatic**.
 
