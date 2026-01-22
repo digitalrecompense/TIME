@@ -15,7 +15,6 @@ A structured clarification of my mathematical, physical, and metaphysical claims
 ### Standard mathematics (ℝ, ε–δ analysis)
 
 * A **limit is not a value** unless the function is explicitly defined at that point.
-* Definition:
 
   <img width="675" height="156" alt="image" src="https://github.com/user-attachments/assets/eda6655a-2ebc-4cf3-8d0f-408cb77eb5ee" />
 
