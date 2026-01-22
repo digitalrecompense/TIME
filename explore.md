@@ -27,7 +27,7 @@ This distinction is not philosophical; it is **axiomatic**.
 * In **extended reals**, **non-standard analysis**, or **domain theory**, limits may correspond to elements.
 * In **physics**, limits are often *treated operationally as values*.
 
-**Corrected statement:**
+**Statement:**
 
 > A limit can be *identified with a value* in completed or extended systems, but is not intrinsically a value in ℝ.
 
@@ -56,7 +56,7 @@ This distinction is not philosophical; it is **axiomatic**.
   * Number systems are **representations of structure**.
   * Boundaries are **formal, not ontological**.
 
-**Corrected statement:**
+**Statement:**
 
 > There are no ontological boundaries between number systems, only axiomatic constraints that determine which statements are valid.
 
@@ -105,7 +105,7 @@ This is not contradictory because:
 * All measurements are discrete.
 * Spacetime may be discrete at the Planck scale.
 
-**Corrected statement:**
+**Statement:**
 
 > Continuity is mathematically fundamental and physically effective, but not empirically confirmed as fundamental.
 
