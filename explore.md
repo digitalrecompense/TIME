@@ -1,0 +1,1 @@
+Reality consists of a scale-relative hierarchy of structures in which ordering, continuity, and time are fundamental locally and emergent globally. At each scale, higher-order generative systems appear “divine” to the scale below, terminating in a non-intentional monadic substrate whose behavior is lawful but not teleological.
