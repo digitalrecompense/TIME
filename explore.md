@@ -41,9 +41,8 @@ This distinction is not philosophical; it is **axiomatic**.
 
 * Number systems are **models**, not substances.
 
-  [
-  \mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R} \subset \mathbb{C} \subset \mathbb{H} \dots
-  ]
+<img width="666" height="74" alt="image" src="https://github.com/user-attachments/assets/ea090f9d-c409-470c-beb9-d5a94199c848" />
+
 
 * Each inclusion **adds axioms**.
 
