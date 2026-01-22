@@ -41,8 +41,7 @@ This distinction is not philosophical; it is **axiomatic**.
 
 * Number systems are **models**, not substances.
 
-<img width="666" height="74" alt="image" src="https://github.com/user-attachments/assets/ea090f9d-c409-470c-beb9-d5a94199c848" />
-
+<img width="694" height="66" alt="image" src="https://github.com/user-attachments/assets/c4eeddcc-dc1b-4e56-be58-d9860207d129" />
 
 * Each inclusion **adds axioms**.
 
