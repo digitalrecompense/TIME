@@ -3,7 +3,7 @@ Reality consists of a scale-relative hierarchy of structures in which ordering, 
 
 # Scale-Relative Time, Limits, and Ontology
 
-A structured clarification of mathematical, physical, and metaphysical claims.
+A structured clarification of my mathematical, physical, and metaphysical claims.
 
 ---
 
